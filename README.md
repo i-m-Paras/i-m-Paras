@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Paras Awasthi</h1>
-<h3 align="center">An aspiring software developer mainly using MERN stack from India</h3>
+<h3 align="center">Looking for an enthusiastic full stack developer? Lets Connect!</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-m-paras&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-paras" /> </p>
 
-- 🌱 I’m currently learning **DSA,MERN stack**
+- 🌱 I use **MERN** stack, learning advanced concepts of full stack development.
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **FullStack Development**
 
 - 📫 How to reach me **awasthiparas6@gmail.com**
 
