@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **awasthiparas6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ck3OZCsFX17xxuKeo8IP7vJFEkDU4ZVT/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1Ck3OZCsFX17xxuKeo8IP7vJFEkDU4ZVT/view?usp=sharing](https://drive.google.com/file/d/1VCLv7jAvxlAZh9ENbMRBUyE_WtEy5XDN/view?usp=sharing))
 
 - ⚡ Fun fact **I love music and guitar which helps me work on my creativity**
 
