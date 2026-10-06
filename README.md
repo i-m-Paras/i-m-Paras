@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Paras Awasthi 👋</h1>
 
 <p align="center">
-  Software Engineer • Android & Full-Stack Developer • Open Source Contributor
+  Software Engineer • Android & Full-Stack Developer • Open Source Contributor • AgenticAI
 </p>
 
 <p align="center">
-  I build production applications, work across frontend, backend and APIs, and enjoy solving engineering problems end-to-end.
+  I build production applications, work across frontend, backend and APIs, AgenticAI, GenAI and enjoy solving engineering problems end-to-end.
 </p>
 
 ---
@@ -60,7 +60,7 @@
 **Tools & Engineering**
 
 <p>
-  Git • Gerrit • REST APIs • Postman • Linux • Clean Architecture • API Design • Testing
+  Git • Gerrit • REST APIs • Postman • Linux • Clean Architecture • API Design • Testing • Langchain
 </p>
 
 ---
@@ -92,15 +92,3 @@ Also contributed to **Chromium DevTools** and other open-source projects before 
 </p>
 
 ---
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=i-m-paras&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-m-paras&show_icons=true&locale=en&layout=compact" alt="Top languages"/>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=i-m-paras&show_icons=true&locale=en" alt="GitHub stats"/>
-</p>
